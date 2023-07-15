@@ -2,6 +2,7 @@
   "name": "macros-vscode",
   "description": "Automate repetitive actions with custom macros",
   "version": "1.2.0",
+  "publisher": "Kamil Mielnik",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kamilmielnik/macros-vscode.git"
